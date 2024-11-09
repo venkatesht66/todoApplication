@@ -1,5 +1,5 @@
 body {
-    font-family: 'Arial', sans-serif;
+    font-family: 'Roboto', sans-serif;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -9,7 +9,7 @@ body {
 }
 
 .container {
-    background-color: #222;
+    background-color: #555;
     color: #fff;
     padding: 20px;
     border-radius: 10px;
